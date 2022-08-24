@@ -1,7 +1,12 @@
 ## CONTACT FORM React Axios API
 
 - Axios kullanarak geliştirilen basic proje.
+- Axios install : npm i axios
+- React bootstrap install : npm install react-bootstrap bootstrap
+- Bootstrap url : [Bootswatch](https://bootswatch.com/superhero/)
 - Api url : [Random User](https://randomuser.me/)
+
+
 
 # Getting Started with Create React App
 
