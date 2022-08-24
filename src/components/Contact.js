@@ -47,7 +47,7 @@ const Contact = ({ contact }) => {
           <Button
             style={{ borderRadius: '20px' }}
             className='w-100'
-            variant='success'>
+            variant='danger'>
             Contact
           </Button>
           </a>
